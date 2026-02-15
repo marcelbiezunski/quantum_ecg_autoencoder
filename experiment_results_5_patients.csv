@@ -1,4 +1,4 @@
-Hidden Dim,Liczba Pacjentów,ID Pacjentów,Limit/Pacjent,Suma Próbek,Loss,Accuracy (%),ROC AUC
+Hidden Dim,Patient Count,Patient IDs,Limit/Patient,Total Samples,Loss,Accuracy (%),ROC AUC
 2,1,['100'],200,200,0.079779,80.82,0.9887
 2,1,['100'],600,600,0.038507,81.05,0.9912
 2,2,"['100', '101']",200,400,0.054716,80.31,0.9889
